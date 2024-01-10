@@ -1,0 +1,12 @@
+Welcome to http333d, the UW cse333 web server!
+  Copyright 2012 Steven Gribble
+  http://www.cs.washington.edu/homes/gribble
+
+initializing:
+  parsing port number and static files directory...
+    port: 5555
+    path: ../projdocs
+  creating and binding the listening socket...
+  accepting connections...
+
+  client c-67-170-123-55.hsd1.wa.comcast.net:55656 (IP address ::ffff:67.170.123.55) connected.
